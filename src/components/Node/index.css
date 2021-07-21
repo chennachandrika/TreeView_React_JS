@@ -1,0 +1,48 @@
+.directory-file {
+  margin-left: 10px;
+  border-left: 3px solid black;
+}
+.input-field {
+  outline: none;
+  margin-right: 5px;
+}
+.add-directory-button {
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+  background-color: green;
+  font-size: 12px;
+  padding: 5px;
+  margin: 3px;
+}
+.edit-directory-button {
+  color: #000000;
+  font-weight: bold;
+  border: none;
+  background-color: none;
+  padding: 5px;
+  font-size: 12px;
+  margin: 3px;
+}
+.check-directory-button {
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+  background-color: green;
+  padding: 5px;
+  font-size: 12px;
+  margin: 3px;
+}
+.remove-directory-button {
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+  background-color: red;
+  padding: 5px;
+  font-size: 13px;
+  margin: 3px;
+}
+.child-directories {
+  list-style-type: none;
+  margin-left: 10px;
+}

@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  min-height: 100vh;
+}
+.directories-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  list-style-type: none;
+}
+.add-directory-button {
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+  background-color: green;
+  padding: 5px;
+  font-size: 12px;
+}
